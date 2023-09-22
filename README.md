@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @Arnaghad
+- 👋 Hi, I’m @Arnaghad developer C#/C++ from Ukraine
+- 🚢 I have one project, but very proud of it.
+- 💼 [Linkedin](https://www.linkedin.com/in/hlib-turuta/)
 - 👀 I’m interested in Game Development
 - Linkedin https://www.linkedin.com/in/hlib-turuta-b17267251/
 
